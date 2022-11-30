@@ -3,6 +3,7 @@ import './App.css';
 
 function App() {
   console.log('object');
+  console.log('first');
   return (
     <div className="App">
       <header className="App-header">
