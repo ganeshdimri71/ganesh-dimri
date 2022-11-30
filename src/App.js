@@ -5,6 +5,7 @@ function App() {
   console.log('object');
   console.log('first');
   console.log('first');
+  console.log('first');
   return (
     <div className="App">
       <header className="App-header">
